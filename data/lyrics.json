@@ -1,0 +1,2988 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "You met me by Modern Ancient City",
+      "start": 17.345,
+      "end": 21.359,
+      "words": [
+        {
+          "w": "You",
+          "start": 17.345,
+          "end": 17.425,
+          "conf": 0.98
+        },
+        {
+          "w": "met",
+          "start": 17.425,
+          "end": 18.39,
+          "conf": 0.98
+        },
+        {
+          "w": "me",
+          "start": 18.39,
+          "end": 18.63,
+          "conf": 0.98
+        },
+        {
+          "w": "by",
+          "start": 18.63,
+          "end": 18.97,
+          "conf": 0.98
+        },
+        {
+          "w": "Modern",
+          "start": 18.97,
+          "end": 19.63,
+          "conf": 0.98
+        },
+        {
+          "w": "Ancient",
+          "start": 19.63,
+          "end": 20.49,
+          "conf": 0.98,
+          "syl": [
+            [
+              19.63,
+              20.043
+            ],
+            [
+              20.043,
+              20.49
+            ]
+          ]
+        },
+        {
+          "w": "City",
+          "start": 20.49,
+          "end": 21.359,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "With raw sugar on my breath",
+      "start": 21.57,
+      "end": 24.39,
+      "words": [
+        {
+          "w": "With",
+          "start": 21.57,
+          "end": 22.13,
+          "conf": 0.98
+        },
+        {
+          "w": "raw",
+          "start": 22.13,
+          "end": 22.53,
+          "conf": 0.98
+        },
+        {
+          "w": "sugar",
+          "start": 22.53,
+          "end": 23.01,
+          "conf": 0.98
+        },
+        {
+          "w": "on",
+          "start": 23.01,
+          "end": 23.45,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 23.45,
+          "end": 23.73,
+          "conf": 0.98
+        },
+        {
+          "w": "breath",
+          "start": 23.73,
+          "end": 24.39,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "Stone Mountain at our iron back",
+      "start": 24.968,
+      "end": 29.19,
+      "words": [
+        {
+          "w": "Stone",
+          "start": 24.968,
+          "end": 25.91,
+          "conf": 0.98
+        },
+        {
+          "w": "Mountain",
+          "start": 25.91,
+          "end": 26.81,
+          "conf": 0.98,
+          "syl": [
+            [
+              25.91,
+              26.342
+            ],
+            [
+              26.342,
+              26.81
+            ]
+          ]
+        },
+        {
+          "w": "at",
+          "start": 26.81,
+          "end": 27.53,
+          "conf": 0.98
+        },
+        {
+          "w": "our",
+          "start": 27.53,
+          "end": 27.83,
+          "conf": 0.98
+        },
+        {
+          "w": "iron",
+          "start": 27.83,
+          "end": 28.73,
+          "conf": 0.98
+        },
+        {
+          "w": "back",
+          "start": 28.73,
+          "end": 29.19,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "McDonald’s Golden First Big Mac",
+      "start": 29.21,
+      "end": 32.21,
+      "words": [
+        {
+          "w": "McDonald’s",
+          "start": 29.21,
+          "end": 30.27,
+          "conf": 0.98
+        },
+        {
+          "w": "Golden",
+          "start": 30.27,
+          "end": 30.57,
+          "conf": 0.98
+        },
+        {
+          "w": "First",
+          "start": 30.57,
+          "end": 31.23,
+          "conf": 0.98
+        },
+        {
+          "w": "Big",
+          "start": 31.23,
+          "end": 31.87,
+          "conf": 0.98
+        },
+        {
+          "w": "Mac",
+          "start": 31.87,
+          "end": 32.21,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "The Ferris Wheel in glow",
+      "start": 33.183,
+      "end": 36.23,
+      "words": [
+        {
+          "w": "The",
+          "start": 33.183,
+          "end": 34.11,
+          "conf": 0.98
+        },
+        {
+          "w": "Ferris",
+          "start": 34.11,
+          "end": 34.83,
+          "conf": 0.98,
+          "syl": [
+            [
+              34.11,
+              34.456
+            ],
+            [
+              34.456,
+              34.83
+            ]
+          ]
+        },
+        {
+          "w": "Wheel",
+          "start": 34.83,
+          "end": 35.25,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 35.25,
+          "end": 35.83,
+          "conf": 0.98
+        },
+        {
+          "w": "glow",
+          "start": 35.83,
+          "end": 36.23,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "Glowed like moons above the road",
+      "start": 36.99,
+      "end": 40.21,
+      "words": [
+        {
+          "w": "Glowed",
+          "start": 36.99,
+          "end": 37.91,
+          "conf": 0.98
+        },
+        {
+          "w": "like",
+          "start": 37.91,
+          "end": 38.09,
+          "conf": 0.98
+        },
+        {
+          "w": "moons",
+          "start": 38.09,
+          "end": 38.63,
+          "conf": 0.98
+        },
+        {
+          "w": "above",
+          "start": 38.63,
+          "end": 39.13,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 39.13,
+          "end": 39.67,
+          "conf": 0.98
+        },
+        {
+          "w": "road",
+          "start": 39.67,
+          "end": 40.21,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "You laughed and took my hand",
+      "start": 41.056,
+      "end": 44.59,
+      "words": [
+        {
+          "w": "You",
+          "start": 41.056,
+          "end": 42.11,
+          "conf": 0.98
+        },
+        {
+          "w": "laughed",
+          "start": 42.11,
+          "end": 42.57,
+          "conf": 0.98
+        },
+        {
+          "w": "and",
+          "start": 42.57,
+          "end": 43.11,
+          "conf": 0.98
+        },
+        {
+          "w": "took",
+          "start": 43.11,
+          "end": 43.41,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 43.41,
+          "end": 43.77,
+          "conf": 0.98
+        },
+        {
+          "w": "hand",
+          "start": 43.77,
+          "end": 44.59,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "Said, \"Baby, take it slow\"",
+      "start": 45.072,
+      "end": 48.044,
+      "words": [
+        {
+          "w": "Said,",
+          "start": 45.072,
+          "end": 45.73,
+          "conf": 0.98
+        },
+        {
+          "w": "\"Baby,",
+          "start": 45.73,
+          "end": 46.53,
+          "conf": 0.98
+        },
+        {
+          "w": "take",
+          "start": 47.05,
+          "end": 47.45,
+          "conf": 0.98
+        },
+        {
+          "w": "it",
+          "start": 47.45,
+          "end": 47.75,
+          "conf": 0.98
+        },
+        {
+          "w": "slow\"",
+          "start": 47.75,
+          "end": 48.044,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "And I followed, I followed",
+      "start": 49.16,
+      "end": 51.55,
+      "words": [
+        {
+          "w": "And",
+          "start": 49.16,
+          "end": 49.95,
+          "conf": 0.98
+        },
+        {
+          "w": "I",
+          "start": 49.95,
+          "end": 50.19,
+          "conf": 0.98
+        },
+        {
+          "w": "followed,",
+          "start": 50.19,
+          "end": 50.73,
+          "conf": 0.98,
+          "syl": [
+            [
+              50.19,
+              50.449
+            ],
+            [
+              50.449,
+              50.73
+            ]
+          ]
+        },
+        {
+          "w": "I",
+          "start": 50.99,
+          "end": 51.11,
+          "conf": 0.98
+        },
+        {
+          "w": "followed",
+          "start": 51.11,
+          "end": 51.55,
+          "conf": 0.98,
+          "syl": [
+            [
+              51.11,
+              51.321
+            ],
+            [
+              51.321,
+              51.55
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "Through Five Pines in the sun",
+      "start": 51.57,
+      "end": 53.356,
+      "words": [
+        {
+          "w": "Through",
+          "start": 51.57,
+          "end": 51.85,
+          "conf": 0.98
+        },
+        {
+          "w": "Five",
+          "start": 51.85,
+          "end": 52.17,
+          "conf": 0.98
+        },
+        {
+          "w": "Pines",
+          "start": 52.17,
+          "end": 52.61,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 52.61,
+          "end": 52.99,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 52.99,
+          "end": 53.17,
+          "conf": 0.98
+        },
+        {
+          "w": "sun",
+          "start": 53.17,
+          "end": 53.356,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "Past the gates of three-o-one",
+      "start": 53.45,
+      "end": 55.335,
+      "words": [
+        {
+          "w": "Past",
+          "start": 53.45,
+          "end": 53.89,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 53.89,
+          "end": 54.13,
+          "conf": 0.98
+        },
+        {
+          "w": "gates",
+          "start": 54.13,
+          "end": 54.47,
+          "conf": 0.98
+        },
+        {
+          "w": "of",
+          "start": 54.47,
+          "end": 54.65,
+          "conf": 0.98
+        },
+        {
+          "w": "three-o-one",
+          "start": 54.65,
+          "end": 55.335,
+          "conf": 0.98,
+          "syl": [
+            [
+              54.65,
+              54.852
+            ],
+            [
+              54.852,
+              55.055
+            ],
+            [
+              55.055,
+              55.335
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "Like a song I couldn’t outrun",
+      "start": 55.53,
+      "end": 57.43,
+      "words": [
+        {
+          "w": "Like",
+          "start": 55.53,
+          "end": 55.93,
+          "conf": 0.98
+        },
+        {
+          "w": "a",
+          "start": 55.93,
+          "end": 56.13,
+          "conf": 0.98
+        },
+        {
+          "w": "song",
+          "start": 56.13,
+          "end": 56.45,
+          "conf": 0.98
+        },
+        {
+          "w": "I",
+          "start": 56.45,
+          "end": 56.63,
+          "conf": 0.98
+        },
+        {
+          "w": "couldn’t",
+          "start": 56.63,
+          "end": 57.01,
+          "conf": 0.98
+        },
+        {
+          "w": "outrun",
+          "start": 57.01,
+          "end": 57.43,
+          "conf": 0.98,
+          "syl": [
+            [
+              57.01,
+              57.211
+            ],
+            [
+              57.211,
+              57.43
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "I followed, I followed",
+      "start": 57.45,
+      "end": 59.274,
+      "words": [
+        {
+          "w": "I",
+          "start": 57.45,
+          "end": 58.07,
+          "conf": 0.98
+        },
+        {
+          "w": "followed,",
+          "start": 58.07,
+          "end": 58.69,
+          "conf": 0.98,
+          "syl": [
+            [
+              58.07,
+              58.368
+            ],
+            [
+              58.368,
+              58.69
+            ]
+          ]
+        },
+        {
+          "w": "I",
+          "start": 59.01,
+          "end": 59.13,
+          "conf": 0.98
+        },
+        {
+          "w": "followed",
+          "start": 59.13,
+          "end": 59.274,
+          "conf": 0.98,
+          "syl": [
+            [
+              59.13,
+              59.199
+            ],
+            [
+              59.199,
+              59.274
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "When the crowd started to roll",
+      "start": 59.59,
+      "end": 61.51,
+      "words": [
+        {
+          "w": "When",
+          "start": 59.59,
+          "end": 59.89,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 59.89,
+          "end": 60.13,
+          "conf": 0.98
+        },
+        {
+          "w": "crowd",
+          "start": 60.13,
+          "end": 60.47,
+          "conf": 0.98
+        },
+        {
+          "w": "started",
+          "start": 60.47,
+          "end": 60.95,
+          "conf": 0.98,
+          "syl": [
+            [
+              60.47,
+              60.7
+            ],
+            [
+              60.7,
+              60.95
+            ]
+          ]
+        },
+        {
+          "w": "to",
+          "start": 60.95,
+          "end": 61.21,
+          "conf": 0.98
+        },
+        {
+          "w": "roll",
+          "start": 61.21,
+          "end": 61.51,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "Bare feet hit the pavement",
+      "start": 61.53,
+      "end": 63.51,
+      "words": [
+        {
+          "w": "Bare",
+          "start": 61.53,
+          "end": 61.99,
+          "conf": 0.98
+        },
+        {
+          "w": "feet",
+          "start": 61.99,
+          "end": 62.39,
+          "conf": 0.98
+        },
+        {
+          "w": "hit",
+          "start": 62.39,
+          "end": 62.93,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 62.93,
+          "end": 63.11,
+          "conf": 0.98
+        },
+        {
+          "w": "pavement",
+          "start": 63.11,
+          "end": 63.51,
+          "conf": 0.98,
+          "syl": [
+            [
+              63.11,
+              63.302
+            ],
+            [
+              63.302,
+              63.51
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "Then you said, \"Let us go\"",
+      "start": 63.53,
+      "end": 65.298,
+      "words": [
+        {
+          "w": "Then",
+          "start": 63.53,
+          "end": 63.93,
+          "conf": 0.98
+        },
+        {
+          "w": "you",
+          "start": 63.93,
+          "end": 64.09,
+          "conf": 0.98
+        },
+        {
+          "w": "said,",
+          "start": 64.09,
+          "end": 64.47,
+          "conf": 0.98
+        },
+        {
+          "w": "\"Let",
+          "start": 64.65,
+          "end": 64.95,
+          "conf": 0.98
+        },
+        {
+          "w": "us",
+          "start": 64.95,
+          "end": 65.15,
+          "conf": 0.98
+        },
+        {
+          "w": "go\"",
+          "start": 65.15,
+          "end": 65.298,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "Peking, Peking",
+      "start": 65.983,
+      "end": 67.43,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 65.983,
+          "end": 66.85,
+          "conf": 0.98,
+          "syl": [
+            [
+              65.983,
+              66.364
+            ],
+            [
+              66.364,
+              66.85
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 67.03,
+          "end": 67.43,
+          "conf": 0.98,
+          "syl": [
+            [
+              67.03,
+              67.206
+            ],
+            [
+              67.206,
+              67.43
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "Hold me close, don’t blink",
+      "start": 67.45,
+      "end": 69.45,
+      "words": [
+        {
+          "w": "Hold",
+          "start": 67.45,
+          "end": 67.89,
+          "conf": 0.98
+        },
+        {
+          "w": "me",
+          "start": 67.89,
+          "end": 68.15,
+          "conf": 0.98
+        },
+        {
+          "w": "close,",
+          "start": 68.15,
+          "end": 68.47,
+          "conf": 0.98
+        },
+        {
+          "w": "don’t",
+          "start": 68.67,
+          "end": 69.21,
+          "conf": 0.98
+        },
+        {
+          "w": "blink",
+          "start": 69.21,
+          "end": 69.45,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "Peking, Peking",
+      "start": 69.47,
+      "end": 71.232,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 69.47,
+          "end": 70.77,
+          "conf": 0.98,
+          "syl": [
+            [
+              69.47,
+              70.042
+            ],
+            [
+              70.042,
+              70.77
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 71.05,
+          "end": 71.232,
+          "conf": 0.98,
+          "syl": [
+            [
+              71.05,
+              71.13
+            ],
+            [
+              71.13,
+              71.232
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "You turn my world water-ink",
+      "start": 71.39,
+      "end": 73.45,
+      "words": [
+        {
+          "w": "You",
+          "start": 71.39,
+          "end": 71.61,
+          "conf": 0.98
+        },
+        {
+          "w": "turn",
+          "start": 71.61,
+          "end": 71.91,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 71.91,
+          "end": 72.21,
+          "conf": 0.98
+        },
+        {
+          "w": "world",
+          "start": 72.21,
+          "end": 72.57,
+          "conf": 0.98
+        },
+        {
+          "w": "water-ink",
+          "start": 72.57,
+          "end": 73.45,
+          "conf": 0.98,
+          "syl": [
+            [
+              72.57,
+              73.098
+            ],
+            [
+              73.098,
+              73.45
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "Peking, Peking",
+      "start": 73.47,
+      "end": 75.31,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 73.47,
+          "end": 74.83,
+          "conf": 0.98,
+          "syl": [
+            [
+              73.47,
+              74.068
+            ],
+            [
+              74.068,
+              74.83
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 75.03,
+          "end": 75.31,
+          "conf": 0.98,
+          "syl": [
+            [
+              75.03,
+              75.153
+            ],
+            [
+              75.153,
+              75.31
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "Say my name, I’m all in",
+      "start": 75.33,
+      "end": 77.15,
+      "words": [
+        {
+          "w": "Say",
+          "start": 75.33,
+          "end": 75.65,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 75.65,
+          "end": 75.95,
+          "conf": 0.98
+        },
+        {
+          "w": "name,",
+          "start": 75.95,
+          "end": 76.39,
+          "conf": 0.98
+        },
+        {
+          "w": "I’m",
+          "start": 76.41,
+          "end": 76.77,
+          "conf": 0.98
+        },
+        {
+          "w": "all",
+          "start": 76.77,
+          "end": 77.17,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 77.03,
+          "end": 77.15,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "Peking, Peking",
+      "start": 77.17,
+      "end": 78.83,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 77.17,
+          "end": 77.55,
+          "conf": 0.98,
+          "syl": [
+            [
+              77.17,
+              77.337
+            ],
+            [
+              77.337,
+              77.55
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 77.55,
+          "end": 78.83,
+          "conf": 0.98,
+          "syl": [
+            [
+              77.55,
+              78.113
+            ],
+            [
+              78.113,
+              78.83
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "And I fall back in",
+      "start": 79.49,
+      "end": 81.59,
+      "words": [
+        {
+          "w": "And",
+          "start": 79.49,
+          "end": 79.85,
+          "conf": 0.98
+        },
+        {
+          "w": "I",
+          "start": 79.85,
+          "end": 80.11,
+          "conf": 0.98
+        },
+        {
+          "w": "fall",
+          "start": 80.11,
+          "end": 80.69,
+          "conf": 0.98
+        },
+        {
+          "w": "back",
+          "start": 80.69,
+          "end": 81.23,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 81.23,
+          "end": 81.59,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "Far out to the Eastern Camp",
+      "start": 97.342,
+      "end": 100.43,
+      "words": [
+        {
+          "w": "Far",
+          "start": 97.342,
+          "end": 98.01,
+          "conf": 0.98
+        },
+        {
+          "w": "out",
+          "start": 98.01,
+          "end": 98.61,
+          "conf": 0.98
+        },
+        {
+          "w": "to",
+          "start": 98.61,
+          "end": 98.91,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 98.91,
+          "end": 99.21,
+          "conf": 0.98
+        },
+        {
+          "w": "Eastern",
+          "start": 99.21,
+          "end": 99.55,
+          "conf": 0.98,
+          "syl": [
+            [
+              99.21,
+              99.373
+            ],
+            [
+              99.373,
+              99.55
+            ]
+          ]
+        },
+        {
+          "w": "Camp",
+          "start": 99.55,
+          "end": 100.43,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "Red Scarf Bridge in neon light",
+      "start": 100.745,
+      "end": 104.255,
+      "words": [
+        {
+          "w": "Red",
+          "start": 100.745,
+          "end": 101.73,
+          "conf": 0.98
+        },
+        {
+          "w": "Scarf",
+          "start": 101.73,
+          "end": 102.41,
+          "conf": 0.98
+        },
+        {
+          "w": "Bridge",
+          "start": 102.41,
+          "end": 102.81,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 102.81,
+          "end": 103.27,
+          "conf": 0.98
+        },
+        {
+          "w": "neon",
+          "start": 103.27,
+          "end": 103.61,
+          "conf": 0.98
+        },
+        {
+          "w": "light",
+          "start": 103.61,
+          "end": 104.255,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "Along the old West Earth Wall",
+      "start": 105.15,
+      "end": 108.53,
+      "words": [
+        {
+          "w": "Along",
+          "start": 105.15,
+          "end": 105.83,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 105.83,
+          "end": 106.21,
+          "conf": 0.98
+        },
+        {
+          "w": "old",
+          "start": 106.21,
+          "end": 106.61,
+          "conf": 0.98
+        },
+        {
+          "w": "West",
+          "start": 106.61,
+          "end": 107.19,
+          "conf": 0.98
+        },
+        {
+          "w": "Earth",
+          "start": 107.19,
+          "end": 107.87,
+          "conf": 0.98
+        },
+        {
+          "w": "Wall",
+          "start": 107.87,
+          "end": 108.53,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "Growing with China Zun so tall",
+      "start": 108.754,
+      "end": 112.49,
+      "words": [
+        {
+          "w": "Growing",
+          "start": 108.754,
+          "end": 109.61,
+          "conf": 0.98
+        },
+        {
+          "w": "with",
+          "start": 109.61,
+          "end": 110.07,
+          "conf": 0.98
+        },
+        {
+          "w": "China",
+          "start": 110.07,
+          "end": 110.85,
+          "conf": 0.98
+        },
+        {
+          "w": "Zun",
+          "start": 110.85,
+          "end": 111.57,
+          "conf": 0.98
+        },
+        {
+          "w": "so",
+          "start": 111.57,
+          "end": 111.89,
+          "conf": 0.98
+        },
+        {
+          "w": "tall",
+          "start": 111.89,
+          "end": 112.49,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "I kept your pure lotus charm",
+      "start": 112.99,
+      "end": 116.41,
+      "words": [
+        {
+          "w": "I",
+          "start": 112.99,
+          "end": 113.67,
+          "conf": 0.98
+        },
+        {
+          "w": "kept",
+          "start": 113.67,
+          "end": 113.93,
+          "conf": 0.98
+        },
+        {
+          "w": "your",
+          "start": 113.93,
+          "end": 114.15,
+          "conf": 0.98
+        },
+        {
+          "w": "pure",
+          "start": 114.15,
+          "end": 114.65,
+          "conf": 0.98
+        },
+        {
+          "w": "lotus",
+          "start": 114.65,
+          "end": 115.59,
+          "conf": 0.98
+        },
+        {
+          "w": "charm",
+          "start": 115.59,
+          "end": 116.41,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "Pinned right upon my sleeve",
+      "start": 116.49,
+      "end": 120.63,
+      "words": [
+        {
+          "w": "Pinned",
+          "start": 116.49,
+          "end": 117.87,
+          "conf": 0.98
+        },
+        {
+          "w": "right",
+          "start": 117.87,
+          "end": 118.41,
+          "conf": 0.98
+        },
+        {
+          "w": "upon",
+          "start": 118.41,
+          "end": 119.09,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 119.09,
+          "end": 119.75,
+          "conf": 0.98
+        },
+        {
+          "w": "sleeve",
+          "start": 119.75,
+          "end": 120.63,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "Through every northern chill",
+      "start": 121.09,
+      "end": 124.31,
+      "words": [
+        {
+          "w": "Through",
+          "start": 121.09,
+          "end": 121.77,
+          "conf": 0.98
+        },
+        {
+          "w": "every",
+          "start": 121.77,
+          "end": 122.63,
+          "conf": 0.98
+        },
+        {
+          "w": "northern",
+          "start": 122.63,
+          "end": 123.53,
+          "conf": 0.98,
+          "syl": [
+            [
+              122.63,
+              123.062
+            ],
+            [
+              123.062,
+              123.53
+            ]
+          ]
+        },
+        {
+          "w": "chill",
+          "start": 123.53,
+          "end": 124.31,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "My green spring and my city",
+      "start": 124.747,
+      "end": 128.19,
+      "words": [
+        {
+          "w": "My",
+          "start": 124.747,
+          "end": 125.23,
+          "conf": 0.98
+        },
+        {
+          "w": "green",
+          "start": 125.23,
+          "end": 125.83,
+          "conf": 0.98
+        },
+        {
+          "w": "spring",
+          "start": 125.83,
+          "end": 126.33,
+          "conf": 0.98
+        },
+        {
+          "w": "and",
+          "start": 126.33,
+          "end": 126.91,
+          "conf": 0.82
+        },
+        {
+          "w": "my",
+          "start": 126.91,
+          "end": 127.31,
+          "conf": 0.98
+        },
+        {
+          "w": "city",
+          "start": 127.31,
+          "end": 128.19,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "And I followed, I followed",
+      "start": 129.31,
+      "end": 131.507,
+      "words": [
+        {
+          "w": "And",
+          "start": 129.31,
+          "end": 129.95,
+          "conf": 0.98
+        },
+        {
+          "w": "I",
+          "start": 129.95,
+          "end": 130.15,
+          "conf": 0.98
+        },
+        {
+          "w": "followed,",
+          "start": 130.15,
+          "end": 130.69,
+          "conf": 0.98,
+          "syl": [
+            [
+              130.15,
+              130.409
+            ],
+            [
+              130.409,
+              130.69
+            ]
+          ]
+        },
+        {
+          "w": "I",
+          "start": 130.99,
+          "end": 131.09,
+          "conf": 0.98
+        },
+        {
+          "w": "followed",
+          "start": 131.09,
+          "end": 131.507,
+          "conf": 0.98,
+          "syl": [
+            [
+              131.09,
+              131.29
+            ],
+            [
+              131.29,
+              131.507
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "Through South Gong and Drum Tower",
+      "start": 131.61,
+      "end": 133.51,
+      "words": [
+        {
+          "w": "Through",
+          "start": 131.61,
+          "end": 131.93,
+          "conf": 0.98
+        },
+        {
+          "w": "South",
+          "start": 131.93,
+          "end": 132.13,
+          "conf": 0.98
+        },
+        {
+          "w": "Gong",
+          "start": 132.13,
+          "end": 132.41,
+          "conf": 0.82
+        },
+        {
+          "w": "and",
+          "start": 132.41,
+          "end": 132.65,
+          "conf": 0.98
+        },
+        {
+          "w": "Drum",
+          "start": 132.65,
+          "end": 132.91,
+          "conf": 0.98
+        },
+        {
+          "w": "Tower",
+          "start": 132.91,
+          "end": 133.51,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "Past Sublime Gate once run",
+      "start": 133.53,
+      "end": 135.289,
+      "words": [
+        {
+          "w": "Past",
+          "start": 133.53,
+          "end": 133.89,
+          "conf": 0.98
+        },
+        {
+          "w": "Sublime",
+          "start": 133.89,
+          "end": 134.47,
+          "conf": 0.82,
+          "syl": [
+            [
+              133.89,
+              134.168
+            ],
+            [
+              134.168,
+              134.47
+            ]
+          ]
+        },
+        {
+          "w": "Gate",
+          "start": 134.47,
+          "end": 134.89,
+          "conf": 0.98
+        },
+        {
+          "w": "once",
+          "start": 134.89,
+          "end": 135.13,
+          "conf": 0.98
+        },
+        {
+          "w": "run",
+          "start": 135.13,
+          "end": 135.289,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "Like a song I couldn’t outrun",
+      "start": 135.53,
+      "end": 137.41,
+      "words": [
+        {
+          "w": "Like",
+          "start": 135.53,
+          "end": 135.91,
+          "conf": 0.98
+        },
+        {
+          "w": "a",
+          "start": 135.91,
+          "end": 136.11,
+          "conf": 0.98
+        },
+        {
+          "w": "song",
+          "start": 136.11,
+          "end": 136.41,
+          "conf": 0.98
+        },
+        {
+          "w": "I",
+          "start": 136.41,
+          "end": 136.63,
+          "conf": 0.98
+        },
+        {
+          "w": "couldn’t",
+          "start": 136.63,
+          "end": 136.99,
+          "conf": 0.98
+        },
+        {
+          "w": "outrun",
+          "start": 136.99,
+          "end": 137.41,
+          "conf": 0.98,
+          "syl": [
+            [
+              136.99,
+              137.191
+            ],
+            [
+              137.191,
+              137.41
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "I followed, I followed",
+      "start": 137.43,
+      "end": 139.499,
+      "words": [
+        {
+          "w": "I",
+          "start": 137.43,
+          "end": 138.07,
+          "conf": 0.98
+        },
+        {
+          "w": "followed,",
+          "start": 138.07,
+          "end": 138.69,
+          "conf": 0.98,
+          "syl": [
+            [
+              138.07,
+              138.368
+            ],
+            [
+              138.368,
+              138.69
+            ]
+          ]
+        },
+        {
+          "w": "I",
+          "start": 139.01,
+          "end": 139.13,
+          "conf": 0.98
+        },
+        {
+          "w": "followed",
+          "start": 139.13,
+          "end": 139.499,
+          "conf": 0.98,
+          "syl": [
+            [
+              139.13,
+              139.307
+            ],
+            [
+              139.307,
+              139.499
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "When the crowd started to roll",
+      "start": 139.57,
+      "end": 141.332,
+      "words": [
+        {
+          "w": "When",
+          "start": 139.57,
+          "end": 139.91,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 139.91,
+          "end": 140.11,
+          "conf": 0.98
+        },
+        {
+          "w": "crowd",
+          "start": 140.11,
+          "end": 140.47,
+          "conf": 0.98
+        },
+        {
+          "w": "started",
+          "start": 140.47,
+          "end": 140.95,
+          "conf": 0.98,
+          "syl": [
+            [
+              140.47,
+              140.7
+            ],
+            [
+              140.7,
+              140.95
+            ]
+          ]
+        },
+        {
+          "w": "to",
+          "start": 140.95,
+          "end": 141.19,
+          "conf": 0.98
+        },
+        {
+          "w": "roll",
+          "start": 141.19,
+          "end": 141.332,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "text": "Breath upon the Echo Wall",
+      "start": 141.53,
+      "end": 143.325,
+      "words": [
+        {
+          "w": "Breath",
+          "start": 141.53,
+          "end": 141.89,
+          "conf": 0.98
+        },
+        {
+          "w": "upon",
+          "start": 141.89,
+          "end": 142.37,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 142.37,
+          "end": 142.71,
+          "conf": 0.98
+        },
+        {
+          "w": "Echo",
+          "start": 142.71,
+          "end": 143.03,
+          "conf": 0.98
+        },
+        {
+          "w": "Wall",
+          "start": 143.03,
+          "end": 143.325,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "text": "Then you said, \"Let it go\"",
+      "start": 143.63,
+      "end": 145.21,
+      "words": [
+        {
+          "w": "Then",
+          "start": 143.63,
+          "end": 143.95,
+          "conf": 0.98
+        },
+        {
+          "w": "you",
+          "start": 143.95,
+          "end": 144.11,
+          "conf": 0.98
+        },
+        {
+          "w": "said,",
+          "start": 144.11,
+          "end": 144.49,
+          "conf": 0.98
+        },
+        {
+          "w": "\"Let",
+          "start": 144.69,
+          "end": 144.93,
+          "conf": 0.98
+        },
+        {
+          "w": "it",
+          "start": 144.93,
+          "end": 145.13,
+          "conf": 0.82
+        },
+        {
+          "w": "go\"",
+          "start": 145.13,
+          "end": 145.21,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "text": "Peking, Peking",
+      "start": 145.913,
+      "end": 147.186,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 145.913,
+          "end": 146.79,
+          "conf": 0.98,
+          "syl": [
+            [
+              145.913,
+              146.299
+            ],
+            [
+              146.299,
+              146.79
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 147.01,
+          "end": 147.186,
+          "conf": 0.98,
+          "syl": [
+            [
+              147.01,
+              147.087
+            ],
+            [
+              147.087,
+              147.186
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "text": "Hold me close, don’t blink",
+      "start": 147.39,
+      "end": 149.55,
+      "words": [
+        {
+          "w": "Hold",
+          "start": 147.39,
+          "end": 147.91,
+          "conf": 0.98
+        },
+        {
+          "w": "me",
+          "start": 147.91,
+          "end": 148.15,
+          "conf": 0.98
+        },
+        {
+          "w": "close,",
+          "start": 148.15,
+          "end": 148.47,
+          "conf": 0.98
+        },
+        {
+          "w": "don’t",
+          "start": 148.65,
+          "end": 149.57,
+          "conf": 0.98
+        },
+        {
+          "w": "blink",
+          "start": 149.43,
+          "end": 149.55,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "text": "Peking, Peking",
+      "start": 149.57,
+      "end": 151.252,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 149.57,
+          "end": 150.81,
+          "conf": 0.98,
+          "syl": [
+            [
+              149.57,
+              150.116
+            ],
+            [
+              150.116,
+              150.81
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 151.05,
+          "end": 151.252,
+          "conf": 0.98,
+          "syl": [
+            [
+              151.05,
+              151.139
+            ],
+            [
+              151.139,
+              151.252
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "text": "You turn my world water-ink",
+      "start": 151.43,
+      "end": 153.45,
+      "words": [
+        {
+          "w": "You",
+          "start": 151.43,
+          "end": 151.61,
+          "conf": 0.98
+        },
+        {
+          "w": "turn",
+          "start": 151.61,
+          "end": 151.91,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 151.91,
+          "end": 152.25,
+          "conf": 0.98
+        },
+        {
+          "w": "world",
+          "start": 152.25,
+          "end": 152.53,
+          "conf": 0.98
+        },
+        {
+          "w": "water-ink",
+          "start": 152.53,
+          "end": 153.45,
+          "conf": 0.98,
+          "syl": [
+            [
+              152.53,
+              153.137
+            ],
+            [
+              153.137,
+              153.45
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "text": "Peking, Peking",
+      "start": 153.47,
+      "end": 155.33,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 153.47,
+          "end": 154.79,
+          "conf": 0.98,
+          "syl": [
+            [
+              153.47,
+              154.051
+            ],
+            [
+              154.051,
+              154.79
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 155.01,
+          "end": 155.33,
+          "conf": 0.98,
+          "syl": [
+            [
+              155.01,
+              155.151
+            ],
+            [
+              155.151,
+              155.33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "text": "Say my name, I’m all in",
+      "start": 155.35,
+      "end": 157.344,
+      "words": [
+        {
+          "w": "Say",
+          "start": 155.35,
+          "end": 155.67,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 155.67,
+          "end": 155.97,
+          "conf": 0.98
+        },
+        {
+          "w": "name,",
+          "start": 155.97,
+          "end": 156.37,
+          "conf": 0.98
+        },
+        {
+          "w": "I’m",
+          "start": 156.37,
+          "end": 156.77,
+          "conf": 0.98
+        },
+        {
+          "w": "all",
+          "start": 156.77,
+          "end": 157.15,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 157.15,
+          "end": 157.344,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "text": "Peking, Peking",
+      "start": 157.364,
+      "end": 158.77,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 157.364,
+          "end": 157.53,
+          "conf": 0.98,
+          "syl": [
+            [
+              157.364,
+              157.437
+            ],
+            [
+              157.437,
+              157.53
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 157.53,
+          "end": 158.77,
+          "conf": 0.98,
+          "syl": [
+            [
+              157.53,
+              158.076
+            ],
+            [
+              158.076,
+              158.77
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "text": "And I fall back in",
+      "start": 159.47,
+      "end": 161.406,
+      "words": [
+        {
+          "w": "And",
+          "start": 159.47,
+          "end": 159.81,
+          "conf": 0.98
+        },
+        {
+          "w": "I",
+          "start": 159.81,
+          "end": 160.09,
+          "conf": 0.98
+        },
+        {
+          "w": "fall",
+          "start": 160.09,
+          "end": 160.71,
+          "conf": 0.98
+        },
+        {
+          "w": "back",
+          "start": 160.71,
+          "end": 161.25,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 161.25,
+          "end": 161.406,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "text": "Joyful Spring in uni",
+      "start": 193.44,
+      "end": 195.53,
+      "words": [
+        {
+          "w": "Joyful",
+          "start": 193.44,
+          "end": 194.09,
+          "conf": 0.98
+        },
+        {
+          "w": "Spring",
+          "start": 194.09,
+          "end": 194.49,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 194.49,
+          "end": 195.17,
+          "conf": 0.98
+        },
+        {
+          "w": "uni",
+          "start": 195.17,
+          "end": 195.53,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "text": "Moon Altar in white",
+      "start": 195.55,
+      "end": 197.45,
+      "words": [
+        {
+          "w": "Moon",
+          "start": 195.55,
+          "end": 195.99,
+          "conf": 0.98
+        },
+        {
+          "w": "Altar",
+          "start": 195.99,
+          "end": 196.73,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 196.73,
+          "end": 197.17,
+          "conf": 0.98
+        },
+        {
+          "w": "white",
+          "start": 197.17,
+          "end": 197.45,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "text": "Down South Scholar Road",
+      "start": 197.47,
+      "end": 199.55,
+      "words": [
+        {
+          "w": "Down",
+          "start": 197.47,
+          "end": 197.99,
+          "conf": 0.98
+        },
+        {
+          "w": "South",
+          "start": 197.99,
+          "end": 198.39,
+          "conf": 0.98
+        },
+        {
+          "w": "Scholar",
+          "start": 198.39,
+          "end": 198.89,
+          "conf": 0.82,
+          "syl": [
+            [
+              198.39,
+              198.63
+            ],
+            [
+              198.63,
+              198.89
+            ]
+          ]
+        },
+        {
+          "w": "Road",
+          "start": 198.89,
+          "end": 199.55,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "text": "Revival Gate bright",
+      "start": 199.57,
+      "end": 201.41,
+      "words": [
+        {
+          "w": "Revival",
+          "start": 199.57,
+          "end": 200.57,
+          "conf": 0.98,
+          "syl": [
+            [
+              199.57,
+              200.05
+            ],
+            [
+              200.05,
+              200.57
+            ]
+          ]
+        },
+        {
+          "w": "Gate",
+          "start": 200.57,
+          "end": 200.95,
+          "conf": 0.98
+        },
+        {
+          "w": "bright",
+          "start": 200.95,
+          "end": 201.41,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "text": "With my sleeves rolled up",
+      "start": 201.43,
+      "end": 203.51,
+      "words": [
+        {
+          "w": "With",
+          "start": 201.43,
+          "end": 201.91,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 201.91,
+          "end": 202.15,
+          "conf": 0.98
+        },
+        {
+          "w": "sleeves",
+          "start": 202.15,
+          "end": 202.61,
+          "conf": 0.98
+        },
+        {
+          "w": "rolled",
+          "start": 202.61,
+          "end": 203.19,
+          "conf": 0.98
+        },
+        {
+          "w": "up",
+          "start": 203.19,
+          "end": 203.51,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "text": "And the fear all gone",
+      "start": 203.53,
+      "end": 205.11,
+      "words": [
+        {
+          "w": "And",
+          "start": 203.53,
+          "end": 203.95,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 203.95,
+          "end": 204.17,
+          "conf": 0.98
+        },
+        {
+          "w": "fear",
+          "start": 204.17,
+          "end": 204.71,
+          "conf": 0.98
+        },
+        {
+          "w": "all",
+          "start": 204.71,
+          "end": 205.13,
+          "conf": 0.98
+        },
+        {
+          "w": "gone",
+          "start": 204.99,
+          "end": 205.11,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "text": "One more open door",
+      "start": 205.13,
+      "end": 207.09,
+      "words": [
+        {
+          "w": "One",
+          "start": 205.13,
+          "end": 205.65,
+          "conf": 0.98
+        },
+        {
+          "w": "more",
+          "start": 205.89,
+          "end": 206.17,
+          "conf": 0.98
+        },
+        {
+          "w": "open",
+          "start": 206.17,
+          "end": 206.97,
+          "conf": 0.98
+        },
+        {
+          "w": "door",
+          "start": 206.97,
+          "end": 207.09,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "text": "Feels like home once more",
+      "start": 207.55,
+      "end": 209.754,
+      "words": [
+        {
+          "w": "Feels",
+          "start": 207.55,
+          "end": 207.89,
+          "conf": 0.98
+        },
+        {
+          "w": "like",
+          "start": 207.89,
+          "end": 208.23,
+          "conf": 0.98
+        },
+        {
+          "w": "home",
+          "start": 208.23,
+          "end": 208.81,
+          "conf": 0.98
+        },
+        {
+          "w": "once",
+          "start": 208.81,
+          "end": 209.31,
+          "conf": 0.98
+        },
+        {
+          "w": "more",
+          "start": 209.31,
+          "end": 209.754,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "text": "Peking, Peking",
+      "start": 209.97,
+      "end": 211.256,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 209.97,
+          "end": 210.83,
+          "conf": 0.98,
+          "syl": [
+            [
+              209.97,
+              210.348
+            ],
+            [
+              210.348,
+              210.83
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 211.01,
+          "end": 211.256,
+          "conf": 0.98,
+          "syl": [
+            [
+              211.01,
+              211.118
+            ],
+            [
+              211.118,
+              211.256
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "text": "Hold me close, don’t blink",
+      "start": 211.43,
+      "end": 213.39,
+      "words": [
+        {
+          "w": "Hold",
+          "start": 211.43,
+          "end": 211.89,
+          "conf": 0.98
+        },
+        {
+          "w": "me",
+          "start": 211.89,
+          "end": 212.15,
+          "conf": 0.98
+        },
+        {
+          "w": "close,",
+          "start": 212.15,
+          "end": 212.59,
+          "conf": 0.98
+        },
+        {
+          "w": "don’t",
+          "start": 212.61,
+          "end": 213.25,
+          "conf": 0.98
+        },
+        {
+          "w": "blink",
+          "start": 213.25,
+          "end": 213.39,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "text": "Peking, Peking",
+      "start": 213.41,
+      "end": 215.229,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 213.41,
+          "end": 214.79,
+          "conf": 0.98,
+          "syl": [
+            [
+              213.41,
+              214.017
+            ],
+            [
+              214.017,
+              214.79
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 215.05,
+          "end": 215.229,
+          "conf": 0.98,
+          "syl": [
+            [
+              215.05,
+              215.129
+            ],
+            [
+              215.129,
+              215.229
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "text": "You turn my world water-ink",
+      "start": 215.41,
+      "end": 217.43,
+      "words": [
+        {
+          "w": "You",
+          "start": 215.41,
+          "end": 215.61,
+          "conf": 0.98
+        },
+        {
+          "w": "turn",
+          "start": 215.61,
+          "end": 215.85,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 215.85,
+          "end": 216.21,
+          "conf": 0.98
+        },
+        {
+          "w": "world",
+          "start": 216.21,
+          "end": 216.57,
+          "conf": 0.98
+        },
+        {
+          "w": "water-ink",
+          "start": 216.57,
+          "end": 217.43,
+          "conf": 0.98,
+          "syl": [
+            [
+              216.57,
+              217.039
+            ],
+            [
+              217.039,
+              217.43
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "text": "Peking, Peking",
+      "start": 217.45,
+      "end": 219.227,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 217.45,
+          "end": 218.77,
+          "conf": 0.98,
+          "syl": [
+            [
+              217.45,
+              218.031
+            ],
+            [
+              218.031,
+              218.77
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 219.05,
+          "end": 219.227,
+          "conf": 0.98,
+          "syl": [
+            [
+              219.05,
+              219.128
+            ],
+            [
+              219.128,
+              219.227
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "text": "Say my name, I’m all in",
+      "start": 219.35,
+      "end": 221.208,
+      "words": [
+        {
+          "w": "Say",
+          "start": 219.35,
+          "end": 219.61,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 219.61,
+          "end": 219.95,
+          "conf": 0.98
+        },
+        {
+          "w": "name,",
+          "start": 219.95,
+          "end": 220.39,
+          "conf": 0.98
+        },
+        {
+          "w": "I’m",
+          "start": 220.39,
+          "end": 220.73,
+          "conf": 0.98
+        },
+        {
+          "w": "all",
+          "start": 220.73,
+          "end": 221.21,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 221.088,
+          "end": 221.208,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "text": "Peking, Peking",
+      "start": 221.228,
+      "end": 222.75,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 221.228,
+          "end": 221.71,
+          "conf": 0.98,
+          "syl": [
+            [
+              221.228,
+              221.44
+            ],
+            [
+              221.44,
+              221.71
+            ]
+          ]
+        },
+        {
+          "w": "Peking",
+          "start": 221.71,
+          "end": 222.75,
+          "conf": 0.98,
+          "syl": [
+            [
+              221.71,
+              222.168
+            ],
+            [
+              222.168,
+              222.75
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "text": "And I fall back in",
+      "start": 223.45,
+      "end": 225.43,
+      "words": [
+        {
+          "w": "And",
+          "start": 223.45,
+          "end": 223.81,
+          "conf": 0.98
+        },
+        {
+          "w": "I",
+          "start": 223.81,
+          "end": 224.25,
+          "conf": 0.98
+        },
+        {
+          "w": "fall",
+          "start": 224.25,
+          "end": 224.71,
+          "conf": 0.98
+        },
+        {
+          "w": "back",
+          "start": 224.71,
+          "end": 225.248,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 225.35,
+          "end": 225.43,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "text": "The Ferris Wheel...",
+      "start": 228.23,
+      "end": 230.53,
+      "words": [
+        {
+          "w": "The",
+          "start": 228.23,
+          "end": 229.11,
+          "conf": 0.98
+        },
+        {
+          "w": "Ferris",
+          "start": 229.11,
+          "end": 229.75,
+          "conf": 0.98,
+          "syl": [
+            [
+              229.11,
+              229.417
+            ],
+            [
+              229.417,
+              229.75
+            ]
+          ]
+        },
+        {
+          "w": "Wheel...",
+          "start": 229.75,
+          "end": 230.53,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "text": "Raw sugar on my breath...",
+      "start": 231.829,
+      "end": 234.71,
+      "words": [
+        {
+          "w": "Raw",
+          "start": 231.829,
+          "end": 232.63,
+          "conf": 0.98
+        },
+        {
+          "w": "sugar",
+          "start": 232.63,
+          "end": 233.01,
+          "conf": 0.98
+        },
+        {
+          "w": "on",
+          "start": 233.01,
+          "end": 233.59,
+          "conf": 0.98
+        },
+        {
+          "w": "my",
+          "start": 233.59,
+          "end": 234.17,
+          "conf": 0.98
+        },
+        {
+          "w": "breath...",
+          "start": 234.17,
+          "end": 234.71,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "text": "Peking, Peking...",
+      "start": 235.547,
+      "end": 237.49,
+      "words": [
+        {
+          "w": "Peking,",
+          "start": 235.547,
+          "end": 236.81,
+          "conf": 0.98,
+          "syl": [
+            [
+              235.547,
+              236.103
+            ],
+            [
+              236.103,
+              236.81
+            ]
+          ]
+        },
+        {
+          "w": "Peking...",
+          "start": 237.11,
+          "end": 237.49,
+          "conf": 0.98,
+          "syl": [
+            [
+              237.11,
+              237.277
+            ],
+            [
+              237.277,
+              237.49
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "text": "Feels like home and ink...",
+      "start": 237.98,
+      "end": 241.27,
+      "words": [
+        {
+          "w": "Feels",
+          "start": 237.98,
+          "end": 239.61,
+          "conf": 0.98
+        },
+        {
+          "w": "like",
+          "start": 239.61,
+          "end": 240.13,
+          "conf": 0.98
+        },
+        {
+          "w": "home",
+          "start": 240.13,
+          "end": 240.81,
+          "conf": 0.98
+        },
+        {
+          "w": "and",
+          "start": 240.81,
+          "end": 240.93,
+          "conf": 0.82
+        },
+        {
+          "w": "ink...",
+          "start": 240.93,
+          "end": 241.27,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "text": "And I fall back in",
+      "start": 246.811,
+      "end": 250.03,
+      "words": [
+        {
+          "w": "And",
+          "start": 246.811,
+          "end": 246.891,
+          "conf": 0.98
+        },
+        {
+          "w": "I",
+          "start": 246.891,
+          "end": 248.09,
+          "conf": 0.98
+        },
+        {
+          "w": "fall",
+          "start": 248.09,
+          "end": 248.71,
+          "conf": 0.98
+        },
+        {
+          "w": "back",
+          "start": 248.71,
+          "end": 249.39,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 249.39,
+          "end": 250.03,
+          "conf": 0.98
+        }
+      ]
+    }
+  ]
+}
